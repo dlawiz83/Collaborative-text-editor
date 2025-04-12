@@ -1,0 +1,27 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+    -fx-background-color: #1e1e2f;
+    -fx-padding: 10;
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-text-fill: #ffffff;
+}
+
+.text-area {
+    -fx-control-inner-background: #2e2e3e;
+    -fx-text-fill: #ffffff;
+    -fx-highlight-fill: #555;
+    -fx-highlight-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-text-fill: #00ffe4;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-background-color: #2e2e3e;
+    -fx-text-fill: #ffffff;
+    -fx-prompt-text-fill: #888;
+}
