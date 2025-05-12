@@ -16,4 +16,4 @@
 - Java (JavaFX)
 - Java Sockets (Networking)
 - CSS (JavaFX Styling)
- ![Alt text](https://github.com/dlawiz83/Collaborative-text-editor/blob/main/CollabText.Image.png)
+
